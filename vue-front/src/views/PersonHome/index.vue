@@ -45,7 +45,7 @@
           <el-menu-item index="4"></el-menu-item>
           <el-menu-item index="4"></el-menu-item>
           <el-menu-item index="4"></el-menu-item>
-          <el-menu-item index="5"
+          <!-- <el-menu-item index="5"
             ><span class="titlestyle">关注数 39</span></el-menu-item
           >
           <el-menu-item index="6"
@@ -53,7 +53,7 @@
           >
           <el-menu-item index="7"
             ><span class="titlestyle">获赞数 4</span></el-menu-item
-          >
+          > -->
           <!-- <el-menu-item index="8"
             ><span class="titlestyle">播放数 10</span></el-menu-item
           >
